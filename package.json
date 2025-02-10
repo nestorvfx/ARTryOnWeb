@@ -1,9 +1,0 @@
-{
-  "name": "node_server_example",
-  "version": "1.0.0",
-  "description": "An example for serving a Unity Web build with Node.js",
-  "main": "index.html",
-  "dependencies": {
-    "express": "^4.19.2"
-  }
-}
